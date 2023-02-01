@@ -1,2 +1,2 @@
 # Todo-project
-# React-project. Todo-list with delete and done buttons.
+# React-project. Todo-project with delete and done buttons.
